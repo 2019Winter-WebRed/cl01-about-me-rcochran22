@@ -1,0 +1,15 @@
+/*
+* Riley Cochran
+* 01/01/19
+* My first Web Page
+*/
+
+/* The universal selector */
+
+* {
+
+}
+/*  Body Attributes here */
+
+body {background-color:pink;
+}
